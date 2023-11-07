@@ -1,0 +1,36 @@
+/* body
+{
+	background: rgba(255,255,255,0.8);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.background
+{
+	max-width:700px;
+	padding: 20px;
+	position: relative;
+	margin: 20px auto;
+	background: rgba(255,255,255,0.8);
+	font-family: Quicksand;
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+}
+
+.btnstyle {
+	border:none;
+	outline:none;
+	background: #19bf7d;
+	font-size: 20px;
+	text-align:center;
+	color:white;
+	width: 40%;
+	height: 50px;
+	text-shadow: 2px 2px #000000;
+	border-radius:20px;
+}  */
+::-webkit-scrollbar { 
+    display: none; 
+}
